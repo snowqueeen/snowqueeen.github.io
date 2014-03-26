@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[れんしゅうちょう]]></title>
+  <link href="http://snowqueeen.github.io/atom.xml" rel="self"/>
+  <link href="http://snowqueeen.github.io/"/>
+  <updated>2014-03-26T16:48:43+09:00</updated>
+  <id>http://snowqueeen.github.io/</id>
+  <author>
+    <name><![CDATA[Snow Queeen]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Github pagesを作成]]></title>
+    <link href="http://snowqueeen.github.io/blog/2014/03/26/create-github-pages/"/>
+    <updated>2014-03-26T10:35:38+09:00</updated>
+    <id>http://snowqueeen.github.io/blog/2014/03/26/create-github-pages</id>
+    <content type="html"><![CDATA[<p>
+  当初はJekyll + Twitter bootstrapで構築しようと思ったけど、Octopress + octstrap3でお手軽に構築。
+  Octopressで不便なことがあったらJekyllにすることにする。
+</p>
+<p>
+  markdonw記法に慣れていないので、new file extentionをhamlに変更している。
+</p>
+Github Pages and Octopress: Cool Blogging Tool for Rubists
+http://www.nicecabbage.com/blog/2012/03/04/blogging-for-rubyists/
+]]></content>
+  </entry>
+  
+</feed>
