@@ -4,7 +4,7 @@
   <title><![CDATA[れんしゅうちょう]]></title>
   <link href="http://snowqueeen.github.io/atom.xml" rel="self"/>
   <link href="http://snowqueeen.github.io/"/>
-  <updated>2014-03-26T16:48:43+09:00</updated>
+  <updated>2014-03-26T17:07:31+09:00</updated>
   <id>http://snowqueeen.github.io/</id>
   <author>
     <name><![CDATA[Snow Queeen]]></name>
@@ -25,8 +25,12 @@
 <p>
   markdonw記法に慣れていないので、new file extentionをhamlに変更している。
 </p>
-Github Pages and Octopress: Cool Blogging Tool for Rubists
-http://www.nicecabbage.com/blog/2012/03/04/blogging-for-rubyists/
+<p>
+  参考:
+  <a href='http://www.nicecabbage.com/blog/2012/03/04/blogging-for-rubyists/'>
+    Github Pages and Octopress: Cool Blogging Tool for Rubists
+  </a>
+</p>
 ]]></content>
   </entry>
   
